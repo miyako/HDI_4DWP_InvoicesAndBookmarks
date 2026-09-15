@@ -617,5 +617,10 @@
 				"Tab3"
 			]
 		}
+	},
+	"colorScheme": "light",
+	"$4d": {
+		"version": "1",
+		"kind": "form"
 	}
 }
