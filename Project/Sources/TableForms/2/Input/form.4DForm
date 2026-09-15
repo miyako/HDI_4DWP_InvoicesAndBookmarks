@@ -75,7 +75,7 @@
 					"height": 17,
 					"sizingX": "grow",
 					"stroke": "#000000",
-					"text": "CUSTOMER"
+					"text": ":xliff:CustomerHeader"
 				},
 				"Line13": {
 					"type": "line",
@@ -224,7 +224,7 @@
 					"width": 105,
 					"height": 17,
 					"textAlign": "right",
-					"text": "ID : "
+					"text": ":xliff:CustomerLabelID"
 				},
 				"Text15": {
 					"type": "text",
@@ -233,7 +233,7 @@
 					"width": 105,
 					"height": 17,
 					"textAlign": "right",
-					"text": "CustReference : "
+					"text": ":xliff:CustomerLabelCustReference"
 				},
 				"Text16": {
 					"type": "text",
@@ -242,7 +242,7 @@
 					"width": 105,
 					"height": 17,
 					"textAlign": "right",
-					"text": "Firstname : "
+					"text": ":xliff:CustomerLabelFirstname"
 				},
 				"Text17": {
 					"type": "text",
@@ -251,7 +251,7 @@
 					"width": 105,
 					"height": 17,
 					"textAlign": "right",
-					"text": "Lastname : "
+					"text": ":xliff:CustomerLabelLastname"
 				},
 				"Text18": {
 					"type": "text",
@@ -260,7 +260,7 @@
 					"width": 105,
 					"height": 17,
 					"textAlign": "right",
-					"text": "Adress : "
+					"text": ":xliff:CustomerLabelAdress"
 				},
 				"Text19": {
 					"type": "text",
@@ -269,7 +269,7 @@
 					"width": 105,
 					"height": 17,
 					"textAlign": "right",
-					"text": "ZipCode : "
+					"text": ":xliff:CustomerLabelZipCode"
 				},
 				"Text20": {
 					"type": "text",
@@ -278,7 +278,7 @@
 					"width": 105,
 					"height": 17,
 					"textAlign": "right",
-					"text": "City : "
+					"text": ":xliff:CustomerLabelCity"
 				},
 				"Text21": {
 					"type": "text",
@@ -287,7 +287,7 @@
 					"width": 105,
 					"height": 17,
 					"textAlign": "right",
-					"text": "Phone : "
+					"text": ":xliff:CustomerLabelPhone"
 				},
 				"Text22": {
 					"type": "text",
@@ -296,7 +296,7 @@
 					"width": 105,
 					"height": 17,
 					"textAlign": "right",
-					"text": "Email : "
+					"text": ":xliff:CustomerLabelEmail"
 				},
 				"ID": {
 					"type": "input",

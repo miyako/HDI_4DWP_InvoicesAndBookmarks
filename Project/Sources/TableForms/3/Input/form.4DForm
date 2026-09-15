@@ -75,7 +75,7 @@
 					"height": 17,
 					"sizingX": "grow",
 					"stroke": "#000000",
-					"text": "INVOICE"
+					"text": ":xliff:InvoiceHeader"
 				},
 				"Line8": {
 					"type": "line",
@@ -224,7 +224,7 @@
 					"width": 109,
 					"height": 17,
 					"textAlign": "right",
-					"text": "ID : "
+					"text": ":xliff:InvoiceLabelID"
 				},
 				"Text10": {
 					"type": "text",
@@ -233,7 +233,7 @@
 					"width": 109,
 					"height": 17,
 					"textAlign": "right",
-					"text": "InvoiceNumber : "
+					"text": ":xliff:InvoiceLabelInvoiceNumber"
 				},
 				"Text11": {
 					"type": "text",
@@ -242,7 +242,7 @@
 					"width": 109,
 					"height": 17,
 					"textAlign": "right",
-					"text": "InvoiceDate : "
+					"text": ":xliff:InvoiceLabelInvoiceDate"
 				},
 				"Text12": {
 					"type": "text",
@@ -251,7 +251,7 @@
 					"width": 109,
 					"height": 17,
 					"textAlign": "right",
-					"text": "SocietyNumber : "
+					"text": ":xliff:InvoiceLabelSocietyNumber"
 				},
 				"ID": {
 					"type": "input",
@@ -364,7 +364,7 @@
 					"width": 109,
 					"height": 17,
 					"textAlign": "right",
-					"text": "Order ID"
+					"text": ":xliff:InvoiceLabelOrderID"
 				},
 				"SocietyNumber1": {
 					"type": "input",

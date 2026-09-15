@@ -20,9 +20,9 @@ For ($i; 1; $n)
 End for 
 
 If ($result=False:C215)
-	$format:="Define bookmarks;#Icons/x-red.png;0;3;1;1;8;0;0;0;1;0;1"
+	$format:=Localized string("DefineBookmarks")+";#Icons/x-red.png;0;3;1;1;8;0;0;0;1;0;1"
 Else 
-	$format:="Define bookmarks;#Icons/Ckeck.png;0;3;1;1;8;0;0;0;1;0;1"
+	$format:=Localized string("DefineBookmarks")+";#Icons/Ckeck.png;0;3;1;1;8;0;0;0;1;0;1"
 End if 
 
 OBJECT SET FORMAT:C236(*; "DefineBookmarks"; $format)

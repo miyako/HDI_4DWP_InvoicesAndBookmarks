@@ -71,6 +71,10 @@ Pour qu'ils soient valides, les modèles doivent contenir les signets obligatoir
                <source>This panel allows you to test the templates you have created or edited. Select a customer in the list below and see invoice samples created according to the template!</source>
                <target>Cette page vous permet de tester les modèles que vous avez édités ou créés. Sélectionnez un client et voyez un exemple de facture correpondant au modèle !</target>
             </trans-unit>
+            <trans-unit id="16" resname="ButtonPrint">
+               <source>Print</source>
+               <target>Imprimer</target>
+            </trans-unit>
          </group>
       </body>
    </file>

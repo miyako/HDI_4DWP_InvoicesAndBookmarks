@@ -328,7 +328,7 @@
 					"fontWeight": "bold",
 					"stroke": "#000000",
 					"focusable": false,
-					"text": "Define bookmarks",
+					"text": ":xliff:DefineBookmarks",
 					"icon": "/RESOURCES/Icons/x-red.png",
 					"popupPlacement": "linked",
 					"textPlacement": "right",
@@ -409,7 +409,7 @@
 							],
 							"header": {
 								"name": "Header1",
-								"text": "Templates",
+								"text": ":xliff:Templates",
 								"stroke": "automatic",
 								"textAlign": "automatic",
 								"verticalAlign": "automatic",
@@ -495,7 +495,7 @@
 					"height": 21,
 					"sizingX": "move",
 					"sizingY": "move",
-					"text": "Print",
+					"text": ":xliff:ButtonPrint",
 					"focusable": false,
 					"method": "ObjectMethods/Button1.4dm",
 					"events": [
@@ -571,7 +571,7 @@
 							],
 							"header": {
 								"name": "Header2",
-								"text": "Customers",
+								"text": ":xliff:Customers",
 								"stroke": "automatic",
 								"textAlign": "automatic",
 								"verticalAlign": "automatic",

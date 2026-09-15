@@ -67,7 +67,7 @@
 					"width": 64,
 					"height": 17,
 					"sizingX": "grow",
-					"text": "ID : "
+					"text": ":xliff:InvoiceLinesLabelID"
 				},
 				"S2_Text": {
 					"type": "text",
@@ -76,7 +76,7 @@
 					"width": 280,
 					"height": 17,
 					"sizingX": "grow",
-					"text": "Invoice Reference"
+					"text": ":xliff:InvoiceLinesLabelInvoiceReference"
 				},
 				"S3_Text": {
 					"type": "text",
@@ -85,7 +85,7 @@
 					"width": 280,
 					"height": 17,
 					"sizingX": "grow",
-					"text": "Article Reference"
+					"text": ":xliff:InvoiceLinesLabelArticleReference"
 				},
 				"S4_Text": {
 					"type": "text",
@@ -94,7 +94,7 @@
 					"width": 280,
 					"height": 17,
 					"sizingX": "grow",
-					"text": "LineValue : "
+					"text": ":xliff:InvoiceLinesLabelLineValue"
 				},
 				"Rectangle6": {
 					"type": "rectangle",

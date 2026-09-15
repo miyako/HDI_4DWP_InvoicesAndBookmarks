@@ -187,7 +187,7 @@
 					"width": 75,
 					"height": 17,
 					"textAlign": "right",
-					"text": "Language : "
+					"text": ":xliff:TutorialLabelLanguage"
 				},
 				"Text10": {
 					"type": "text",
@@ -196,7 +196,7 @@
 					"width": 75,
 					"height": 17,
 					"textAlign": "right",
-					"text": "Tuto : "
+					"text": ":xliff:TutorialLabelTuto"
 				},
 				"Language": {
 					"type": "input",

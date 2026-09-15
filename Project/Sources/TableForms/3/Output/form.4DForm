@@ -64,7 +64,7 @@
 					"left": 15,
 					"width": 64,
 					"height": 17,
-					"text": "ID : "
+					"text": ":xliff:InvoiceLabelID"
 				},
 				"S2_Text": {
 					"type": "text",
@@ -72,7 +72,7 @@
 					"left": 91,
 					"width": 280,
 					"height": 17,
-					"text": "InvoiceNumber : "
+					"text": ":xliff:InvoiceLabelInvoiceNumber"
 				},
 				"S3_Text": {
 					"type": "text",
@@ -80,7 +80,7 @@
 					"left": 383,
 					"width": 280,
 					"height": 17,
-					"text": "InvoiceDate : "
+					"text": ":xliff:InvoiceLabelInvoiceDate"
 				},
 				"S4_Text": {
 					"type": "text",
@@ -88,7 +88,7 @@
 					"left": 675,
 					"width": 99,
 					"height": 17,
-					"text": "Cust Ref."
+					"text": ":xliff:InvoiceLabelCustRef"
 				},
 				"Rectangle6": {
 					"type": "rectangle",
@@ -261,7 +261,7 @@
 					"left": 794,
 					"width": 119,
 					"height": 17,
-					"text": "Order ID"
+					"text": ":xliff:InvoiceLabelOrderID"
 				},
 				"SocietyNumber1": {
 					"type": "input",

@@ -67,7 +67,7 @@
 					"width": 64,
 					"height": 17,
 					"sizingX": "grow",
-					"text": "ID:"
+					"text": ":xliff:TemplatesLabelID"
 				},
 				"S2_Text": {
 					"type": "text",
@@ -76,7 +76,7 @@
 					"width": 320,
 					"height": 17,
 					"sizingX": "grow",
-					"text": "Name:"
+					"text": ":xliff:TemplatesLabelName"
 				},
 				"Rectangle4": {
 					"type": "rectangle",
@@ -191,7 +191,7 @@
 					"width": 48,
 					"height": 17,
 					"sizingX": "move",
-					"text": "Lang."
+					"text": ":xliff:TemplatesLabelLang"
 				}
 			}
 		}

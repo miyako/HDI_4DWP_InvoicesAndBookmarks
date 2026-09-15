@@ -67,7 +67,7 @@
 					"width": 64,
 					"height": 17,
 					"sizingX": "grow",
-					"text": "ID : "
+					"text": ":xliff:ArticlesLabelID"
 				},
 				"S2_Text": {
 					"type": "text",
@@ -76,7 +76,7 @@
 					"width": 85,
 					"height": 17,
 					"sizingX": "grow",
-					"text": "ArtReference : "
+					"text": ":xliff:ArticlesLabelArtReference"
 				},
 				"S3_Text": {
 					"type": "text",
@@ -85,7 +85,7 @@
 					"width": 280,
 					"height": 17,
 					"sizingX": "grow",
-					"text": "Type : "
+					"text": ":xliff:ArticlesLabelType"
 				},
 				"S4_Text": {
 					"type": "text",
@@ -94,7 +94,7 @@
 					"width": 280,
 					"height": 17,
 					"sizingX": "grow",
-					"text": "Description : "
+					"text": ":xliff:ArticlesLabelDescription"
 				},
 				"S5_Text": {
 					"type": "text",
@@ -103,7 +103,7 @@
 					"width": 280,
 					"height": 17,
 					"sizingX": "grow",
-					"text": "Description2 : "
+					"text": ":xliff:ArticlesLabelDescription2"
 				},
 				"S6_Text": {
 					"type": "text",
@@ -112,7 +112,7 @@
 					"width": 280,
 					"height": 17,
 					"sizingX": "grow",
-					"text": "Price : "
+					"text": ":xliff:ArticlesLabelPrice"
 				},
 				"S7_Text": {
 					"type": "text",
@@ -121,7 +121,7 @@
 					"width": 280,
 					"height": 17,
 					"sizingX": "grow",
-					"text": "VATrate : "
+					"text": ":xliff:ArticlesLabelVATrate"
 				},
 				"Rectangle9": {
 					"type": "rectangle",

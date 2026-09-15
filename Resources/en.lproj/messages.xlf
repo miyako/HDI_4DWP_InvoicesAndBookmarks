@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+   <!--Translation file.This file is distributed under the same license as the product package.-->
+<xliff version="1.0">
+   <file datatype="x-STR#" original="undefined" source-language="en" target-language="en">
+      <header>
+         <prop-group name="Xliff-Editor.4dbase">
+            <prop prop-type="version">1.0</prop>
+         </prop-group>
+      </header>
+      <body>
+         <group resname="Templates">
+            <trans-unit id="1" resname="ConfirmExportPrompt">
+               <source>Export all templates or localized ?</source>
+               <target>Export all templates or localized ?</target>
+            </trans-unit>
+            <trans-unit id="2" resname="ButtonLocalizedOnly">
+               <source>Localized only</source>
+               <target>Localized only</target>
+            </trans-unit>
+            <trans-unit id="3" resname="ButtonAllRecords">
+               <source>All records</source>
+               <target>All records</target>
+            </trans-unit>
+            <trans-unit id="4" resname="RequestExportPrompt">
+               <source>Export into…</source>
+               <target>Export into…</target>
+            </trans-unit>
+            <trans-unit id="5" resname="SelectFolderPrompt">
+               <source>Select export folder</source>
+               <target>Select export folder</target>
+            </trans-unit>
+            <trans-unit id="6" resname="AlertExportComplete">
+               <source>Explort complete!</source>
+               <target>Explort complete!</target>
+            </trans-unit>
+            <trans-unit id="7" resname="AlertSelectTemplateToDelete">
+               <source>Select template to delete first !</source>
+               <target>Select template to delete first !</target>
+            </trans-unit>
+            <trans-unit id="8" resname="AlertSelectTemplateToDuplicate">
+               <source>Select template to duplicate first !</source>
+               <target>Select template to duplicate first !</target>
+            </trans-unit>
+            <trans-unit id="9" resname="AlertLockedRecord">
+               <source>Locked record</source>
+               <target>Locked record</target>
+            </trans-unit>
+            <trans-unit id="11" resname="SelectImportFolderPrompt">
+               <source>Select import folder</source>
+               <target>Select import folder</target>
+            </trans-unit>
+         </group>
+         <group resname="Demo">
+            <trans-unit id="10" resname="AlertDone">
+               <source>done</source>
+               <target>done</target>
+            </trans-unit>
+         </group>
+      </body>
+   </file>
+</xliff>

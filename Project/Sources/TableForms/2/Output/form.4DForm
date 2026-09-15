@@ -67,7 +67,7 @@
 					"width": 280,
 					"height": 17,
 					"sizingX": "grow",
-					"text": "Firstname : "
+					"text": ":xliff:CustomerLabelFirstname"
 				},
 				"S2_Text": {
 					"type": "text",
@@ -76,7 +76,7 @@
 					"width": 280,
 					"height": 17,
 					"sizingX": "grow",
-					"text": "Lastname : "
+					"text": ":xliff:CustomerLabelLastname"
 				},
 				"S3_Text": {
 					"type": "text",
@@ -85,7 +85,7 @@
 					"width": 280,
 					"height": 17,
 					"sizingX": "grow",
-					"text": "ZipCode : "
+					"text": ":xliff:CustomerLabelZipCode"
 				},
 				"S4_Text": {
 					"type": "text",
@@ -94,7 +94,7 @@
 					"width": 280,
 					"height": 17,
 					"sizingX": "grow",
-					"text": "City : "
+					"text": ":xliff:CustomerLabelCity"
 				},
 				"Rectangle6": {
 					"type": "rectangle",

@@ -75,7 +75,7 @@
 					"height": 17,
 					"sizingX": "grow",
 					"stroke": "#000000",
-					"text": "INVOICE_LINES"
+					"text": ":xliff:InvoiceLinesHeader"
 				},
 				"Line8": {
 					"type": "line",
@@ -224,7 +224,7 @@
 					"width": 107,
 					"height": 17,
 					"textAlign": "right",
-					"text": "ID : "
+					"text": ":xliff:InvoiceLinesLabelID"
 				},
 				"Text10": {
 					"type": "text",
@@ -233,7 +233,7 @@
 					"width": 107,
 					"height": 17,
 					"textAlign": "right",
-					"text": "InvoiceNumber : "
+					"text": ":xliff:InvoiceLinesLabelInvoiceNumber"
 				},
 				"Text11": {
 					"type": "text",
@@ -242,7 +242,7 @@
 					"width": 107,
 					"height": 17,
 					"textAlign": "right",
-					"text": "LineLabel : "
+					"text": ":xliff:InvoiceLinesLabelLineLabel"
 				},
 				"Text12": {
 					"type": "text",
@@ -251,7 +251,7 @@
 					"width": 107,
 					"height": 17,
 					"textAlign": "right",
-					"text": "LineValue : "
+					"text": ":xliff:InvoiceLinesLabelLineValue"
 				},
 				"ID": {
 					"type": "input",

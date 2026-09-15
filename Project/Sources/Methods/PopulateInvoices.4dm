@@ -36,7 +36,7 @@ For ($i; 1; $nbCustomers)
 	End for 
 End for 
 
-ALERT:C41("done")
+ALERT:C41(Localized string("AlertDone"))
 
 
 

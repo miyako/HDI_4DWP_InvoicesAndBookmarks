@@ -38,5 +38,5 @@ If (Records in set:C195("$templateSet")=1)
 	WParea:=[TEMPLATES:1]WP:2
 	
 Else 
-	ALERT:C41("Select template to duplicate first !")
+	ALERT:C41(Localized string("AlertSelectTemplateToDuplicate"))
 End if 

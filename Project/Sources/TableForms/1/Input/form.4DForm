@@ -65,7 +65,7 @@
 					"dataSource": "Button",
 					"action": "cancel",
 					"shortcutKey": "[Esc]",
-					"text": "Cancel",
+					"text": ":xliff:CommonCancel",
 					"class": "Buttons_13",
 					"events": [
 						"onClick"
@@ -82,7 +82,7 @@
 					"dataSource": "Button",
 					"action": "accept",
 					"shortcutKey": "[Enter]",
-					"text": "OK",
+					"text": ":xliff:CommonOK",
 					"class": "Buttons_13",
 					"defaultButton": true,
 					"events": [

@@ -67,7 +67,7 @@
 					"width": 64,
 					"height": 17,
 					"sizingX": "grow",
-					"text": "ID : "
+					"text": ":xliff:TutorialLabelID"
 				},
 				"S2_Text": {
 					"type": "text",
@@ -76,7 +76,7 @@
 					"width": 280,
 					"height": 17,
 					"sizingX": "grow",
-					"text": "Language : "
+					"text": ":xliff:TutorialLabelLanguage"
 				},
 				"S3_Text": {
 					"type": "text",
@@ -85,7 +85,7 @@
 					"width": 400,
 					"height": 17,
 					"sizingX": "grow",
-					"text": "Tuto : "
+					"text": ":xliff:TutorialLabelTuto"
 				},
 				"Rectangle5": {
 					"type": "rectangle",

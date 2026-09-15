@@ -6,7 +6,7 @@ var $i; $n : Integer
 
 If (Count parameters:C259=0)
 	$language:=""
-	$folder:=Select folder:C670("Select import folder")
+	$folder:=Select folder:C670(Localized string("SelectImportFolderPrompt"))
 Else 
 	$folder:=Get 4D folder:C485(Current resources folder:K5:16)+$language+".lproj"+Folder separator:K24:12+"Templates"+Folder separator:K24:12
 	If (Not:C34(Test path name:C476($folder)=Is a folder:K24:2))
