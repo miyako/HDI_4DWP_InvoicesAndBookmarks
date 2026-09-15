@@ -48,7 +48,8 @@
 					"width": 963,
 					"height": 51,
 					"sizingX": "grow",
-					"fill": "transparent"
+					"fill": "transparent",
+					"stroke": "automatic"
 				},
 				"Picture5": {
 					"type": "picture",
@@ -103,7 +104,8 @@
 					"width": 959,
 					"height": 25,
 					"sizingX": "grow",
-					"stroke": "transparent"
+					"stroke": "transparent",
+					"fill": "automatic"
 				},
 				"S1_Field": {
 					"type": "input",
@@ -141,7 +143,7 @@
 					"height": 17,
 					"sizingX": "grow",
 					"dataSource": "[INVOICE_LINES:4]InvoiceReference:2",
-					"fill": "#FFFFFF",
+					"fill": "automatic",
 					"borderStyle": "none",
 					"contextMenu": "none",
 					"dragging": "none",
@@ -166,7 +168,7 @@
 					"height": 17,
 					"sizingX": "grow",
 					"dataSource": "[INVOICE_LINES:4]ArticleReference:3",
-					"fill": "#FFFFFF",
+					"fill": "automatic",
 					"borderStyle": "none",
 					"contextMenu": "none",
 					"dragging": "none",
@@ -192,7 +194,7 @@
 					"sizingX": "grow",
 					"dataSource": "[INVOICE_LINES:4]Quantity:4",
 					"dataSourceTypeHint": "number",
-					"fill": "#FFFFFF",
+					"fill": "automatic",
 					"borderStyle": "none",
 					"contextMenu": "none",
 					"dragging": "none",
@@ -214,7 +216,7 @@
 					"top": 2,
 					"left": 669,
 					"height": 49,
-					"stroke": "#A8A8A8"
+					"stroke": "automatic"
 				},
 				"Splitter2": {
 					"type": "splitter",
@@ -233,7 +235,7 @@
 					"top": 2,
 					"left": 377,
 					"height": 49,
-					"stroke": "#A8A8A8"
+					"stroke": "automatic"
 				},
 				"Splitter3": {
 					"type": "splitter",
@@ -252,7 +254,7 @@
 					"top": 2,
 					"left": 85,
 					"height": 49,
-					"stroke": "#A8A8A8"
+					"stroke": "automatic"
 				},
 				"Splitter4": {
 					"type": "splitter",

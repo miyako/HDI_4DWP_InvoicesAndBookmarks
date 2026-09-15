@@ -48,7 +48,8 @@
 					"width": 1644,
 					"height": 51,
 					"sizingX": "grow",
-					"fill": "transparent"
+					"fill": "transparent",
+					"stroke": "automatic"
 				},
 				"Picture8": {
 					"type": "picture",
@@ -130,7 +131,8 @@
 					"width": 1640,
 					"height": 25,
 					"sizingX": "grow",
-					"stroke": "transparent"
+					"stroke": "transparent",
+					"fill": "automatic"
 				},
 				"S1_Field": {
 					"type": "input",
@@ -168,7 +170,7 @@
 					"height": 17,
 					"sizingX": "grow",
 					"dataSource": "[ARTICLES:5]ArticleNumber:2",
-					"fill": "#FFFFFF",
+					"fill": "automatic",
 					"borderStyle": "none",
 					"contextMenu": "none",
 					"dragging": "none",
@@ -193,7 +195,7 @@
 					"height": 17,
 					"sizingX": "grow",
 					"dataSource": "[ARTICLES:5]Type:3",
-					"fill": "#FFFFFF",
+					"fill": "automatic",
 					"borderStyle": "none",
 					"contextMenu": "none",
 					"dragging": "none",
@@ -218,7 +220,7 @@
 					"height": 17,
 					"sizingX": "grow",
 					"dataSource": "[ARTICLES:5]Description:4",
-					"fill": "#FFFFFF",
+					"fill": "automatic",
 					"borderStyle": "none",
 					"contextMenu": "none",
 					"dragging": "none",
@@ -243,7 +245,7 @@
 					"height": 17,
 					"sizingX": "grow",
 					"dataSource": "[ARTICLES:5]Description2:5",
-					"fill": "#FFFFFF",
+					"fill": "automatic",
 					"borderStyle": "none",
 					"contextMenu": "none",
 					"dragging": "none",
@@ -269,7 +271,7 @@
 					"sizingX": "grow",
 					"dataSource": "[ARTICLES:5]Price:6",
 					"dataSourceTypeHint": "number",
-					"fill": "#FFFFFF",
+					"fill": "automatic",
 					"borderStyle": "none",
 					"contextMenu": "none",
 					"dragging": "none",
@@ -295,7 +297,7 @@
 					"sizingX": "grow",
 					"dataSource": "[ARTICLES:5]VATrate:7",
 					"dataSourceTypeHint": "number",
-					"fill": "#FFFFFF",
+					"fill": "automatic",
 					"borderStyle": "none",
 					"contextMenu": "none",
 					"dragging": "none",
@@ -317,7 +319,7 @@
 					"top": 2,
 					"left": 1350,
 					"height": 49,
-					"stroke": "#A8A8A8"
+					"stroke": "automatic"
 				},
 				"Splitter2": {
 					"type": "splitter",
@@ -336,7 +338,7 @@
 					"top": 2,
 					"left": 1058,
 					"height": 49,
-					"stroke": "#A8A8A8"
+					"stroke": "automatic"
 				},
 				"Splitter3": {
 					"type": "splitter",
@@ -355,7 +357,7 @@
 					"top": 2,
 					"left": 766,
 					"height": 49,
-					"stroke": "#A8A8A8"
+					"stroke": "automatic"
 				},
 				"Splitter4": {
 					"type": "splitter",
@@ -374,7 +376,7 @@
 					"top": 2,
 					"left": 474,
 					"height": 49,
-					"stroke": "#A8A8A8"
+					"stroke": "automatic"
 				},
 				"Splitter5": {
 					"type": "splitter",
@@ -393,7 +395,7 @@
 					"top": 2,
 					"left": 182,
 					"height": 49,
-					"stroke": "#A8A8A8"
+					"stroke": "automatic"
 				},
 				"Splitter6": {
 					"type": "splitter",
@@ -412,7 +414,7 @@
 					"top": 2,
 					"left": 85,
 					"height": 49,
-					"stroke": "#A8A8A8"
+					"stroke": "automatic"
 				},
 				"Splitter7": {
 					"type": "splitter",
@@ -435,7 +437,7 @@
 					"sizingX": "grow",
 					"dataSource": "[ARTICLES:5]Icon:8",
 					"dataSourceTypeHint": "picture",
-					"fill": "#FFFFFF",
+					"fill": "automatic",
 					"borderStyle": "none",
 					"pictureFormat": "proportionalTopLeft",
 					"dragging": "custom",

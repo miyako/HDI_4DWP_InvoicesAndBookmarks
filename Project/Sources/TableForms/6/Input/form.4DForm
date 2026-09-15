@@ -206,7 +206,7 @@
 					"height": 17,
 					"dataSource": "[TUTORIAL:6]Language:2",
 					"textAlign": "left",
-					"fill": "#FFFFFF",
+					"fill": "automatic",
 					"borderStyle": "sunken",
 					"contextMenu": "none",
 					"dragging": "none",
