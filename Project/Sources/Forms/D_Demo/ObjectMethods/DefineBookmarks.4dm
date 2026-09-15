@@ -1,6 +1,6 @@
-C_LONGINT:C283($i; $n; $p)
-C_TEXT:C284($menu; $value)
-C_POINTER:C301($WP_widgetPtr)
+var $i; $n; $p : Integer
+var $menu; $value : Text
+var $WP_widgetPtr : Pointer
 
 ARRAY TEXT:C222(_CurrentBookmarks; 0)
 WP GET BOOKMARKS:C1417(WParea; _CurrentBookmarks)

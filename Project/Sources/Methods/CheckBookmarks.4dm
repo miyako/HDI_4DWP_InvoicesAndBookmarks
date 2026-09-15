@@ -1,7 +1,7 @@
 //%attributes = {}
-C_LONGINT:C283($i; $n; $p)
-C_BOOLEAN:C305($result)
-C_TEXT:C284($format)
+var $i; $n; $p : Integer
+var $result : Boolean
+var $format : Text
 
 ARRAY TEXT:C222(_CurrentBookmarks; 0)
 WP GET BOOKMARKS:C1417(WParea; _CurrentBookmarks)

@@ -1,4 +1,4 @@
-C_TEXT:C284($tutoPath)
+var $tutoPath : Text
 
 Case of 
 		

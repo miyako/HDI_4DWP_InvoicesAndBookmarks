@@ -1,16 +1,13 @@
 //%attributes = {"invisible":true}
-C_TEXT:C284($1)
+#DECLARE($language : Text)
 
-C_TEXT:C284($folder; $templateName)
-C_TEXT:C284($language)
-
-C_LONGINT:C283($i; $n)
+var $folder; $templateName : Text
+var $i; $n : Integer
 
 If (Count parameters:C259=0)
 	$language:=""
 	$folder:=Select folder:C670("Select import folder")
 Else 
-	$language:=$1
 	$folder:=Get 4D folder:C485(Current resources folder:K5:16)+$language+".lproj"+Folder separator:K24:12+"Templates"+Folder separator:K24:12
 	If (Not:C34(Test path name:C476($folder)=Is a folder:K24:2))
 		ok:=0

@@ -1,6 +1,6 @@
-C_POINTER:C301($WP_widgetPtr)
-C_TEXT:C284($user; $session; $psname)
-C_LONGINT:C283($ps)
+var $WP_widgetPtr : Pointer
+var $user; $session; $psname : Text
+var $ps : Integer
 
 Case of 
 		

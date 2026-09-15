@@ -1,8 +1,8 @@
 //%attributes = {"invisible":true}
 
-C_TEXT:C284($folder; $Path; $localizedFolder)
-C_LONGINT:C283($i; $n)
-C_BOOLEAN:C305($allRecords)
+var $folder; $Path; $localizedFolder : Text
+var $i; $n : Integer
+var $allRecords : Boolean
 
 CONFIRM:C162("Export all templates or localized ?"; "Localized only"; "All records")
 

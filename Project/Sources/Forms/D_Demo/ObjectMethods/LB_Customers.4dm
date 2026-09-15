@@ -1,4 +1,4 @@
-C_LONGINT:C283($col; $row)
+var $col; $row : Integer
 
 Case of 
 		
