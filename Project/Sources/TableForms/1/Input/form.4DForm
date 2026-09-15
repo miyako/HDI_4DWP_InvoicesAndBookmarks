@@ -59,14 +59,13 @@
 					"top": 134,
 					"left": 264,
 					"width": 70,
-					"height": 20,
 					"sizingX": "move",
 					"sizingY": "move",
 					"dataSource": "Button",
 					"action": "cancel",
 					"shortcutKey": "[Esc]",
-					"text": "Cancel",
-					"class": "Buttons_13",
+					"text": ":xliff:CommonCancel",
+					"class": "Buttons_13 default",
 					"events": [
 						"onClick"
 					]
@@ -76,14 +75,13 @@
 					"top": 134,
 					"left": 344,
 					"width": 70,
-					"height": 20,
 					"sizingX": "move",
 					"sizingY": "move",
 					"dataSource": "Button",
 					"action": "accept",
 					"shortcutKey": "[Enter]",
-					"text": "OK",
-					"class": "Buttons_13",
+					"text": ":xliff:CommonOK",
+					"class": "Buttons_13 default",
 					"defaultButton": true,
 					"events": [
 						"onClick"

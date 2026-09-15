@@ -71,6 +71,10 @@ In order to create a valid template, you have to set up the mandatory bookmarks 
                <source>This panel allows you to test the templates you have created or edited. Select a customer in the list below and see invoice samples created according to the template!</source>
                <target>This panel allows you to test the templates you have created or edited. Select a customer in the list below and see invoice samples created according to the template!</target>
             </trans-unit>
+            <trans-unit id="16" resname="ButtonPrint">
+               <source>Print</source>
+               <target>Print</target>
+            </trans-unit>
          </group>
       </body>
    </file>

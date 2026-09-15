@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+   <!--Translation file.This file is distributed under the same license as the product package.-->
+<xliff version="1.0">
+   <file datatype="x-STR#" original="undefined" source-language="en" target-language="fr">
+      <header>
+         <prop-group name="Xliff-Editor.4dbase">
+            <prop prop-type="version">1.0</prop>
+         </prop-group>
+      </header>
+      <body>
+         <group resname="Templates">
+            <trans-unit id="1" resname="TemplatesLabelID">
+               <source>ID:</source>
+               <target>ID :</target>
+            </trans-unit>
+            <trans-unit id="2" resname="TemplatesLabelName">
+               <source>Name:</source>
+               <target>Nom :</target>
+            </trans-unit>
+            <trans-unit id="3" resname="TemplatesLabelLang">
+               <source>Lang.</source>
+               <target>Langue</target>
+            </trans-unit>
+         </group>
+         <group resname="Customer">
+            <trans-unit id="4" resname="CustomerHeader">
+               <source>CUSTOMER</source>
+               <target>CLIENT</target>
+            </trans-unit>
+            <trans-unit id="5" resname="CustomerLabelID">
+               <source>ID : </source>
+               <target>ID : </target>
+            </trans-unit>
+            <trans-unit id="6" resname="CustomerLabelCustReference">
+               <source>CustReference : </source>
+               <target>Référence client : </target>
+            </trans-unit>
+            <trans-unit id="7" resname="CustomerLabelFirstname">
+               <source>Firstname : </source>
+               <target>Prénom : </target>
+            </trans-unit>
+            <trans-unit id="8" resname="CustomerLabelLastname">
+               <source>Lastname : </source>
+               <target>Nom : </target>
+            </trans-unit>
+            <trans-unit id="9" resname="CustomerLabelAdress">
+               <source>Adress : </source>
+               <target>Adresse : </target>
+            </trans-unit>
+            <trans-unit id="10" resname="CustomerLabelZipCode">
+               <source>ZipCode : </source>
+               <target>Code postal : </target>
+            </trans-unit>
+            <trans-unit id="11" resname="CustomerLabelCity">
+               <source>City : </source>
+               <target>Ville : </target>
+            </trans-unit>
+            <trans-unit id="12" resname="CustomerLabelPhone">
+               <source>Phone : </source>
+               <target>Téléphone : </target>
+            </trans-unit>
+            <trans-unit id="13" resname="CustomerLabelEmail">
+               <source>Email : </source>
+               <target>E-mail : </target>
+            </trans-unit>
+         </group>
+         <group resname="Invoice">
+            <trans-unit id="14" resname="InvoiceHeader">
+               <source>INVOICE</source>
+               <target>FACTURE</target>
+            </trans-unit>
+            <trans-unit id="15" resname="InvoiceLabelID">
+               <source>ID : </source>
+               <target>ID : </target>
+            </trans-unit>
+            <trans-unit id="16" resname="InvoiceLabelInvoiceNumber">
+               <source>InvoiceNumber : </source>
+               <target>Numéro de facture : </target>
+            </trans-unit>
+            <trans-unit id="17" resname="InvoiceLabelInvoiceDate">
+               <source>InvoiceDate : </source>
+               <target>Date de facture : </target>
+            </trans-unit>
+            <trans-unit id="18" resname="InvoiceLabelSocietyNumber">
+               <source>SocietyNumber : </source>
+               <target>Numéro de société : </target>
+            </trans-unit>
+            <trans-unit id="19" resname="InvoiceLabelOrderID">
+               <source>Order ID</source>
+               <target>N° de commande</target>
+            </trans-unit>
+            <trans-unit id="20" resname="InvoiceLabelCustRef">
+               <source>Cust Ref.</source>
+               <target>Réf. client</target>
+            </trans-unit>
+         </group>
+         <group resname="InvoiceLines">
+            <trans-unit id="21" resname="InvoiceLinesHeader">
+               <source>INVOICE_LINES</source>
+               <target>LIGNES_DE_FACTURE</target>
+            </trans-unit>
+            <trans-unit id="22" resname="InvoiceLinesLabelID">
+               <source>ID : </source>
+               <target>ID : </target>
+            </trans-unit>
+            <trans-unit id="23" resname="InvoiceLinesLabelInvoiceNumber">
+               <source>InvoiceNumber : </source>
+               <target>Numéro de facture : </target>
+            </trans-unit>
+            <trans-unit id="24" resname="InvoiceLinesLabelLineLabel">
+               <source>LineLabel : </source>
+               <target>Libellé de ligne : </target>
+            </trans-unit>
+            <trans-unit id="25" resname="InvoiceLinesLabelLineValue">
+               <source>LineValue : </source>
+               <target>Valeur de ligne : </target>
+            </trans-unit>
+            <trans-unit id="26" resname="InvoiceLinesLabelInvoiceReference">
+               <source>Invoice Reference</source>
+               <target>Référence de facture</target>
+            </trans-unit>
+            <trans-unit id="27" resname="InvoiceLinesLabelArticleReference">
+               <source>Article Reference</source>
+               <target>Référence d'article</target>
+            </trans-unit>
+         </group>
+         <group resname="Articles">
+            <trans-unit id="28" resname="ArticlesHeader">
+               <source>ARTICLES</source>
+               <target>ARTICLES</target>
+            </trans-unit>
+            <trans-unit id="29" resname="ArticlesLabelID">
+               <source>ID : </source>
+               <target>ID : </target>
+            </trans-unit>
+            <trans-unit id="30" resname="ArticlesLabelArtReference">
+               <source>ArtReference : </source>
+               <target>Référence article : </target>
+            </trans-unit>
+            <trans-unit id="31" resname="ArticlesLabelType">
+               <source>Type : </source>
+               <target>Type : </target>
+            </trans-unit>
+            <trans-unit id="32" resname="ArticlesLabelDescription">
+               <source>Description : </source>
+               <target>Description : </target>
+            </trans-unit>
+            <trans-unit id="33" resname="ArticlesLabelDescription2">
+               <source>Description2 : </source>
+               <target>Description 2 : </target>
+            </trans-unit>
+            <trans-unit id="34" resname="ArticlesLabelPrice">
+               <source>Price : </source>
+               <target>Prix : </target>
+            </trans-unit>
+            <trans-unit id="35" resname="ArticlesLabelVATrate">
+               <source>VATrate : </source>
+               <target>Taux de TVA : </target>
+            </trans-unit>
+            <trans-unit id="36" resname="ArticlesButtonGeneric">
+               <source>Button</source>
+               <target>Bouton</target>
+            </trans-unit>
+         </group>
+         <group resname="Tutorial">
+            <trans-unit id="37" resname="TutorialLabelID">
+               <source>ID : </source>
+               <target>ID : </target>
+            </trans-unit>
+            <trans-unit id="38" resname="TutorialLabelLanguage">
+               <source>Language : </source>
+               <target>Langue : </target>
+            </trans-unit>
+            <trans-unit id="39" resname="TutorialLabelTuto">
+               <source>Tuto : </source>
+               <target>Tuto : </target>
+            </trans-unit>
+         </group>
+      </body>
+   </file>
+</xliff>

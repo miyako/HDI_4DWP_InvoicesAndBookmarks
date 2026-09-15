@@ -1,4 +1,5 @@
-C_LONGINT:C283($col; $row)
+//%attributes = {"invisible":true}
+var $col; $row : Integer
 
 Case of 
 		

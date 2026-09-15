@@ -1,11 +1,8 @@
 //%attributes = {"invisible":true}
-C_TEXT:C284($1)
+#DECLARE($bookmarkName : Text)
 
-C_TEXT:C284($bookmarkName)
-C_LONGINT:C283($p)
-C_OBJECT:C1216($wpRange)
-
-$bookmarkName:=$1
+var $p : Integer
+var $wpRange : Object
 
 ARRAY TEXT:C222($_bookmarks; 0)
 WP GET BOOKMARKS:C1417(WParea; $_bookmarks)

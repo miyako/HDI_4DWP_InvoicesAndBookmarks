@@ -1,10 +1,9 @@
-//%attributes = {}
+//%attributes = {"invisible":true}
 
-C_PICTURE:C286($barcode)
+#DECLARE->$result : Text
+var $barcode : Picture
 
-
-C_TEXT:C284($0)
-$0:=String:C10(Random:C100)
+$result:=String:C10(Random:C100)
 
 //C_PICTURE($0)
 //$0:=[INVOICE]BarCode

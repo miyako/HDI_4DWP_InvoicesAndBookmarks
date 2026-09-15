@@ -1,10 +1,10 @@
 //%attributes = {"invisible":true,"preemptive":"capable"}
 
-C_LONGINT:C283($i; $j; $n; $p)
+var $i; $j; $n; $p : Integer
 
-C_LONGINT:C283($nbInvoices; $nbLines)
+var $nbInvoices; $nbLines : Integer
 
-C_OBJECT:C1216($range; $buildRange; $empty; $RangeDoc; $invoiceLineDoc; $totalDoc; $bottomDoc)
+var $range; $buildRange; $empty; $RangeDoc; $invoiceLineDoc; $totalDoc; $bottomDoc : Object
 
 vTotalHT:=0
 vTotalVAT:=0
