@@ -18,3 +18,9 @@ var pictRange : Object
 var vIcon : Picture
 var vPict : Boolean
 var wpTutorial : Object
+
+C_REAL:C285(Button)
+C_TEXT:C284(List Box)
+C_REAL:C285(Tab1)
+C_REAL:C285(Tab2)
+C_REAL:C285(Tab3)
