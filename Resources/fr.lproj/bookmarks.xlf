@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+   <!--Translation file.This file is distributed under the same license as the product package.-->
+<xliff version="1.0">
+   <file datatype="x-STR#" original="undefined" source-language="en" target-language="fr">
+      <header>
+         <prop-group name="Xliff-Editor.4dbase">
+            <prop prop-type="version">1.0</prop>
+         </prop-group>
+      </header>
+      <body>
+         <group resname="Tabs">
+            <trans-unit id="1" resname="Introduction">
+               <source>Introduction</source>
+               <target>Introduction</target>
+            </trans-unit>
+            <trans-unit id="2" resname="TemplateEditor">
+               <source>Template Editor</source>
+               <target>Éditeur de modèles</target>
+            </trans-unit>
+            <trans-unit id="3" resname="InvoiceSamples">
+               <source>Invoice Samples</source>
+               <target>Exemple de factures</target>
+            </trans-unit>
+         </group>
+         <group resname="Editor">
+            <trans-unit id="5" resname="Templates">
+               <source>Templates</source>
+               <target>Modèles</target>
+            </trans-unit>
+            <trans-unit id="6" resname="NameColon">
+               <source>Name:</source>
+               <target>Nom :</target>
+            </trans-unit>
+            <trans-unit id="7" resname="DefineBookmarks">
+               <source>Define bookmarks</source>
+               <target>Définir signets</target>
+            </trans-unit>
+            <trans-unit id="8" resname="Duplicate">
+               <source>Duplicate</source>
+               <target>Dupliquer</target>
+            </trans-unit>
+            <trans-unit id="9" resname="TestTemplate">
+               <source>Test template (random data)</source>
+               <target>Tester modèle (données aléatoires)</target>
+            </trans-unit>
+            <trans-unit id="10" resname="SaveTemplate">
+               <source>Save template</source>
+               <target>Enregistrer modèle</target>
+            </trans-unit>
+            <trans-unit id="11" resname="MaxLines">
+               <source>Invoice max. lines per page:</source>
+               <target>Nb de lignes max par page :</target>
+            </trans-unit>
+            <trans-unit id="12" resname="ZeroNoMax">
+               <source>(Leave 0 if no max.)</source>
+               <target>(Laisser 0 si pas de max.)</target>
+            </trans-unit>
+            <trans-unit id="13" resname="TemplateTip">
+               <source>This panel allows you to create, edit and test invoice templates.
+In order to create a valid template, you have to set up the mandatory bookmarks described in the tutorial.</source>
+               <target>Cette page vous permet de créer, d'éditer et de tester vos modèles.
+Pour qu'ils soient valides, les modèles doivent contenir les signets obligatoires décrits dans le tutoriel.</target>
+            </trans-unit>
+         </group>
+         <group resname="Invoices">
+            <trans-unit id="14" resname="Customers">
+               <source>Customers</source>
+               <target>Clients</target>
+            </trans-unit>
+            <trans-unit id="15" resname="InvoicesTip">
+               <source>This panel allows you to test the templates you have created or edited. Select a customer in the list below and see invoice samples created according to the template!</source>
+               <target>Cette page vous permet de tester les modèles que vous avez édités ou créés. Sélectionnez un client et voyez un exemple de facture correpondant au modèle !</target>
+            </trans-unit>
+         </group>
+      </body>
+   </file>
+</xliff>
