@@ -1,3 +1,4 @@
+//%attributes = {"invisible":true}
 SET PRINT PREVIEW:C364(True:C214)
 
 WP PRINT:C1343(WPbuild; wk 4D Write Pro layout:K81:176)

@@ -1,4 +1,5 @@
-C_TEXT:C284($tutoPath)
+//%attributes = {"invisible":true}
+var $tutoPath : Text
 
 Case of 
 		

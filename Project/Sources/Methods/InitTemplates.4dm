@@ -1,5 +1,5 @@
-//%attributes = {}
-C_TEXT:C284($language)
+//%attributes = {"invisible":true}
+var $language : Text
 
 $language:=Get database localization:C1009(User system localization:K5:23)
 

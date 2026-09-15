@@ -1,6 +1,7 @@
-C_POINTER:C301($WP_widgetPtr)
-C_TEXT:C284($user; $session; $psname)
-C_LONGINT:C283($ps)
+//%attributes = {"invisible":true}
+var $WP_widgetPtr : Pointer
+var $user; $session; $psname : Text
+var $ps : Integer
 
 Case of 
 		
@@ -12,7 +13,7 @@ Case of
 			
 			LOAD RECORD:C52([TEMPLATES:1])
 			If (Locked:C147([TEMPLATES:1]))
-				ALERT:C41("Locked record")
+				ALERT:C41(Localized string("AlertLockedRecord"))
 				LOCKED BY:C353([TEMPLATES:1]; $ps; $user; $session; $psname)
 			End if 
 			

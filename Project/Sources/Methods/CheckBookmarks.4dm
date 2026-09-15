@@ -1,7 +1,7 @@
-//%attributes = {}
-C_LONGINT:C283($i; $n; $p)
-C_BOOLEAN:C305($result)
-C_TEXT:C284($format)
+//%attributes = {"invisible":true}
+var $i; $n; $p : Integer
+var $result : Boolean
+var $format : Text
 
 ARRAY TEXT:C222(_CurrentBookmarks; 0)
 WP GET BOOKMARKS:C1417(WParea; _CurrentBookmarks)
@@ -20,9 +20,9 @@ For ($i; 1; $n)
 End for 
 
 If ($result=False:C215)
-	$format:="Define bookmarks;#Icons/x-red.png;0;3;1;1;8;0;0;0;1;0;1"
+	$format:=Localized string("DefineBookmarks")+";#Icons/x-red.png;0;3;1;1;8;0;0;0;1;0;1"
 Else 
-	$format:="Define bookmarks;#Icons/Ckeck.png;0;3;1;1;8;0;0;0;1;0;1"
+	$format:=Localized string("DefineBookmarks")+";#Icons/Ckeck.png;0;3;1;1;8;0;0;0;1;0;1"
 End if 
 
 OBJECT SET FORMAT:C236(*; "DefineBookmarks"; $format)

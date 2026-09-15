@@ -47,7 +47,8 @@
 					"left": 0,
 					"width": 782,
 					"height": 51,
-					"fill": "transparent"
+					"fill": "transparent",
+					"stroke": "automatic"
 				},
 				"Picture5": {
 					"type": "picture",
@@ -64,7 +65,7 @@
 					"left": 15,
 					"width": 64,
 					"height": 17,
-					"text": "ID : "
+					"text": ":xliff:InvoiceLabelID"
 				},
 				"S2_Text": {
 					"type": "text",
@@ -72,7 +73,7 @@
 					"left": 91,
 					"width": 280,
 					"height": 17,
-					"text": "InvoiceNumber : "
+					"text": ":xliff:InvoiceLabelInvoiceNumber"
 				},
 				"S3_Text": {
 					"type": "text",
@@ -80,7 +81,7 @@
 					"left": 383,
 					"width": 280,
 					"height": 17,
-					"text": "InvoiceDate : "
+					"text": ":xliff:InvoiceLabelInvoiceDate"
 				},
 				"S4_Text": {
 					"type": "text",
@@ -88,7 +89,7 @@
 					"left": 675,
 					"width": 99,
 					"height": 17,
-					"text": "Cust Ref."
+					"text": ":xliff:InvoiceLabelCustRef"
 				},
 				"Rectangle6": {
 					"type": "rectangle",
@@ -96,7 +97,8 @@
 					"left": 2,
 					"width": 778,
 					"height": 25,
-					"stroke": "transparent"
+					"stroke": "transparent",
+					"fill": "automatic"
 				},
 				"S1_Field": {
 					"type": "input",
@@ -132,7 +134,7 @@
 					"width": 280,
 					"height": 17,
 					"dataSource": "[INVOICE:3]InvoiceNumber:2",
-					"fill": "#FFFFFF",
+					"fill": "automatic",
 					"borderStyle": "none",
 					"contextMenu": "none",
 					"dragging": "none",
@@ -157,7 +159,7 @@
 					"height": 17,
 					"dataSource": "[INVOICE:3]InvoiceDate:3",
 					"dataSourceTypeHint": "date",
-					"fill": "#FFFFFF",
+					"fill": "automatic",
 					"borderStyle": "none",
 					"contextMenu": "none",
 					"dragging": "none",
@@ -181,7 +183,7 @@
 					"width": 99,
 					"height": 17,
 					"dataSource": "[INVOICE:3]CustomerReference:4",
-					"fill": "#FFFFFF",
+					"fill": "automatic",
 					"borderStyle": "none",
 					"contextMenu": "none",
 					"dragging": "none",
@@ -203,7 +205,7 @@
 					"top": 2,
 					"left": 669,
 					"height": 49,
-					"stroke": "#A8A8A8"
+					"stroke": "automatic"
 				},
 				"Splitter2": {
 					"type": "splitter",
@@ -222,7 +224,7 @@
 					"top": 2,
 					"left": 377,
 					"height": 49,
-					"stroke": "#A8A8A8"
+					"stroke": "automatic"
 				},
 				"Splitter3": {
 					"type": "splitter",
@@ -241,7 +243,7 @@
 					"top": 2,
 					"left": 85,
 					"height": 49,
-					"stroke": "#A8A8A8"
+					"stroke": "automatic"
 				},
 				"Splitter4": {
 					"type": "splitter",
@@ -261,7 +263,7 @@
 					"left": 794,
 					"width": 119,
 					"height": 17,
-					"text": "Order ID"
+					"text": ":xliff:InvoiceLabelOrderID"
 				},
 				"SocietyNumber1": {
 					"type": "input",
@@ -271,7 +273,7 @@
 					"height": 17,
 					"dataSource": "[INVOICE:3]OrderID:5",
 					"textAlign": "left",
-					"fill": "#FFFFFF",
+					"fill": "automatic",
 					"borderStyle": "sunken",
 					"contextMenu": "none",
 					"dragging": "none",

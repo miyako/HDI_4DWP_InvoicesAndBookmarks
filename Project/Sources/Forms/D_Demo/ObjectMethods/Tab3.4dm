@@ -1,3 +1,4 @@
+//%attributes = {"invisible":true}
 ALL RECORDS:C47([CUSTOMER:2])
 ORDER BY:C49([CUSTOMER:2]; [CUSTOMER:2]Lastname:2; >)
 CREATE EMPTY SET:C140([CUSTOMER:2]; "$customersSet")

@@ -1,5 +1,5 @@
 //%attributes = {"invisible":true}
-C_LONGINT:C283($n)
+var $n : Integer
 
 ALL RECORDS:C47([INVOICE:3])
 $n:=Records in selection:C76([INVOICE:3])

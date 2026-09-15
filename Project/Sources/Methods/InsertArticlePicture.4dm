@@ -1,7 +1,7 @@
-//%attributes = {}
+//%attributes = {"invisible":true}
 
-C_TEXT:C284($0)
-$0:=String:C10(Random:C100)
+#DECLARE->$result : Text
+$result:=String:C10(Random:C100)
 
 
 //  C_PICTURE($0)

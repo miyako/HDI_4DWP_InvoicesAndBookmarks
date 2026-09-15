@@ -1,3 +1,4 @@
+//%attributes = {"invisible":true}
 
 
 If (Records in set:C195("$templateSet")=1)
@@ -15,5 +16,5 @@ If (Records in set:C195("$templateSet")=1)
 	
 	
 Else 
-	ALERT:C41("Select template to delete first !")
+	ALERT:C41(Localized string("AlertSelectTemplateToDelete"))
 End if 

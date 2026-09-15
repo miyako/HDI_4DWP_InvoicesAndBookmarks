@@ -1,6 +1,6 @@
 //%attributes = {"invisible":true}
-C_TEXT:C284($folder; $Path; $resourcesPath)
-C_LONGINT:C283($i; $n)
+var $folder; $Path; $resourcesPath : Text
+var $i; $n : Integer
 
 $resourcesPath:=Get 4D folder:C485(Current resources folder:K5:16)
 

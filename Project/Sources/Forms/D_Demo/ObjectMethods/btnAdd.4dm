@@ -1,5 +1,6 @@
-C_LONGINT:C283($i; $n)
-C_TEXT:C284($NewName)
+//%attributes = {"invisible":true}
+var $i; $n : Integer
+var $NewName : Text
 
 SET QUERY DESTINATION:C396(Into variable:K19:4; $n)
 

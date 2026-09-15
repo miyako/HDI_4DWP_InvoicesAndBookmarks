@@ -48,7 +48,8 @@
 					"width": 499,
 					"height": 51,
 					"sizingX": "grow",
-					"fill": "transparent"
+					"fill": "transparent",
+					"stroke": "automatic"
 				},
 				"Picture3": {
 					"type": "picture",
@@ -67,7 +68,7 @@
 					"width": 64,
 					"height": 17,
 					"sizingX": "grow",
-					"text": "ID:"
+					"text": ":xliff:TemplatesLabelID"
 				},
 				"S2_Text": {
 					"type": "text",
@@ -76,7 +77,7 @@
 					"width": 320,
 					"height": 17,
 					"sizingX": "grow",
-					"text": "Name:"
+					"text": ":xliff:TemplatesLabelName"
 				},
 				"Rectangle4": {
 					"type": "rectangle",
@@ -85,7 +86,8 @@
 					"width": 495,
 					"height": 25,
 					"sizingX": "grow",
-					"stroke": "transparent"
+					"stroke": "transparent",
+					"fill": "automatic"
 				},
 				"S1_Field": {
 					"type": "input",
@@ -123,7 +125,7 @@
 					"height": 17,
 					"sizingX": "grow",
 					"dataSource": "[TEMPLATES:1]Name:3",
-					"fill": "#FFFFFF",
+					"fill": "automatic",
 					"borderStyle": "none",
 					"contextMenu": "none",
 					"dragging": "none",
@@ -145,7 +147,7 @@
 					"top": 2,
 					"left": 85,
 					"height": 49,
-					"stroke": "#A8A8A8"
+					"stroke": "automatic"
 				},
 				"Splitter2": {
 					"type": "splitter",
@@ -167,7 +169,7 @@
 					"height": 17,
 					"sizingX": "grow",
 					"dataSource": "[TEMPLATES:1]Language:5",
-					"fill": "#FFFFFF",
+					"fill": "automatic",
 					"borderStyle": "none",
 					"contextMenu": "none",
 					"dragging": "none",
@@ -191,7 +193,7 @@
 					"width": 48,
 					"height": 17,
 					"sizingX": "move",
-					"text": "Lang."
+					"text": ":xliff:TemplatesLabelLang"
 				}
 			}
 		}

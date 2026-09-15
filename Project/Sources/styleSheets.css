@@ -1,0 +1,29 @@
+/* Cross-platform dark mode support */
+
+@media (prefers-color-scheme: light) {
+	.tip-box {
+		fill: #FFFACD;
+	}
+
+	.muted-text {
+		stroke: #696969;
+	}
+
+	.hdi-listbox {
+		horizontalLineStroke: #C0C0C0;
+	}
+}
+
+@media (prefers-color-scheme: dark) {
+	.tip-box {
+		fill: #4A4020;
+	}
+
+	.muted-text {
+		stroke: #A0A0A0;
+	}
+
+	.hdi-listbox {
+		horizontalLineStroke: #3A3A3A;
+	}
+}
