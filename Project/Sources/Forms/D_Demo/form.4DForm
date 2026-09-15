@@ -397,9 +397,10 @@
 							"maxWidth": 32000,
 							"stroke": "automatic",
 							"fill": "automatic",
-							"alternateFill": "automatic",
+							"alternateFill": "automaticAlternate",
 							"textAlign": "automatic",
 							"verticalAlign": "automatic",
+							"truncateMode": "none",
 							"events": [
 								"onClick",
 								"onDataChange"
@@ -560,9 +561,10 @@
 							"enterable": false,
 							"stroke": "automatic",
 							"fill": "automatic",
-							"alternateFill": "automatic",
+							"alternateFill": "automaticAlternate",
 							"textAlign": "automatic",
 							"verticalAlign": "automatic",
+							"truncateMode": "none",
 							"events": [
 								"onClick",
 								"onDataChange"
