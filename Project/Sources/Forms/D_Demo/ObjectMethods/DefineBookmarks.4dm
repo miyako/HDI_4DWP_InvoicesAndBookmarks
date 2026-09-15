@@ -1,3 +1,4 @@
+//%attributes = {"invisible":true}
 var $i; $n; $p : Integer
 var $menu; $value : Text
 var $WP_widgetPtr : Pointer

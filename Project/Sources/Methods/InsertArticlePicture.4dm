@@ -1,4 +1,4 @@
-//%attributes = {}
+//%attributes = {"invisible":true}
 
 #DECLARE->$result : Text
 $result:=String:C10(Random:C100)

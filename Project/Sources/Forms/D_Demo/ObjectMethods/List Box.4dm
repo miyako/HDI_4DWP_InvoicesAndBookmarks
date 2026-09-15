@@ -1,3 +1,4 @@
+//%attributes = {"invisible":true}
 var $WP_widgetPtr : Pointer
 var $user; $session; $psname : Text
 var $ps : Integer

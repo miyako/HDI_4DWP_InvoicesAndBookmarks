@@ -1,3 +1,4 @@
+//%attributes = {"invisible":true}
 var $col; $row : Integer
 
 Case of 

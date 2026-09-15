@@ -1,4 +1,4 @@
-//%attributes = {}
+//%attributes = {"invisible":true}
 var $i; $n; $p : Integer
 var $result : Boolean
 var $format : Text

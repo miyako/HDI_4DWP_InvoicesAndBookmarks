@@ -1,3 +1,4 @@
+//%attributes = {"invisible":true}
 var $WP_object : Object  // variable used manage to the 4D WritePro Widget
 var $WP_widgetPtr; $WP_areaPtr : Pointer  // Pointers on the area and widget
 var $WP_areaName; $WP_widgetName : Text  // "4DWritePro area" and "4DWritePro widget" object names

@@ -1,3 +1,4 @@
+//%attributes = {"invisible":true}
 For each ($dataClass; ds:C1482)
 	If (ds:C1482[$dataClass].getCount()=0)
 		$project:=File:C1566("/RESOURCES/"+$dataClass+".4si").getText()

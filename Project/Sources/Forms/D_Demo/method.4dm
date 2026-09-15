@@ -1,3 +1,4 @@
+//%attributes = {"invisible":true}
 var $tutoPath : Text
 
 Case of 

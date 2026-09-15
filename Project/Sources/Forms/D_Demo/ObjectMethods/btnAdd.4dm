@@ -1,3 +1,4 @@
+//%attributes = {"invisible":true}
 var $i; $n : Integer
 var $NewName : Text
 

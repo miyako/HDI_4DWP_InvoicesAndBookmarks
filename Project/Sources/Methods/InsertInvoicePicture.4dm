@@ -1,4 +1,4 @@
-//%attributes = {}
+//%attributes = {"invisible":true}
 
 #DECLARE->$result : Text
 var $barcode : Picture
